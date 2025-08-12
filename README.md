@@ -54,14 +54,6 @@
 
 ---
 
-<!-- ### 🧪 Projects I'm Proud Of (Idea Section)
-
-- 📱 **TodoX Mobile App** – A Flutter-based multi-device task tracker with local + cloud sync  
-- 🌐 **Portfolio v2** – Built with Angular & Tailwind, hosted with GitHub Pages  
-- 🧩 **Snippet Vault** – A web app to store, tag, and search code snippets for multiple languages   -->
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
