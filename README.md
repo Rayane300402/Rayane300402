@@ -48,9 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane300402&layout=compact&langs_count=6&theme=react&hide_border=false" height="150" />
 </p>
 
-<p align="center">
+<!--  <p align="center">
   <img src="https://streak-stats.demolab.com?user=rayane300402&theme=react&hide_border=false&border_radius=5" height="220" />
-</p>
+</p>  -->
 
 ---
 
