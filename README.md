@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Flutter + Node.js** projects  
+- 🔭 I’m currently working on **Flutter + Node.js & React** projects  
 - 🌱 Always learning: diving deeper into **backend**, **clean architecture**, and **TypeScript**  
 - ⚡ Fun fact: When I’m not coding, I’m probably crocheting something cool - yes, I write loops in yarn too 🧶 
 - 🗣️ I speak **Arabic**, **English**, and **code** fluently - and I'm conversational in French 
@@ -19,25 +19,37 @@
 ---
 
 ### 🔧 Tech Stack
-
 <p align="center">
-  <!-- Frontend -->
+
+  <!-- Frontend: HTML & CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
+
+  <br /><br />
+
+  <!-- Frontend: JavaScript & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+
   <br /><br />
+
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" style="background-color: white; padding: 4px; border-radius: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
+
   <br /><br />
+
   <!-- Mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
+
 </p>
+
 
 ---
 
