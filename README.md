@@ -57,17 +57,16 @@
 
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="./profile/github-stats.svg"
+    src="https://raw.githubusercontent.com/Rayane300402/Rayane300402/main/profile/github-stats.svg?v=2"
     height="165"
     alt="Rayane's GitHub statistics"
   />
   <img
-    src="./profile/top-languages.svg"
+    src="https://raw.githubusercontent.com/Rayane300402/Rayane300402/main/profile/top-languages.svg?v=2"
     height="165"
     alt="Rayane's most used languages"
   />
