@@ -61,13 +61,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayane300402&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane300402&layout=compact&langs_count=6&theme=react&hide_border=false" height="150" />
+  <img
+    src="./profile/github-stats.svg"
+    height="165"
+    alt="Rayane's GitHub statistics"
+  />
+  <img
+    src="./profile/top-languages.svg"
+    height="165"
+    alt="Rayane's most used languages"
+  />
 </p>
-
-<!--  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rayane300402&theme=react&hide_border=false&border_radius=5" height="220" />
-</p>  -->
 
 ---
 
